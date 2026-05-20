@@ -1,8 +1,5 @@
 print("=== SỐ LƯỢNG NHÂN SỰ MỚI ===")
-
-# Khởi tạo biến số lượng nhân sự bằng giá trị không hợp lệ
 count = 0
-
 while count <= 0:
     count = int(input("Vui lòng nhập số lượng nhân sự mới trong tháng này: "))
 
